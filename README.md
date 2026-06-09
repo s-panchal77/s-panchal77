@@ -1,8 +1,8 @@
 # Hi, I'm Sarthak Panchal 👋
 
-### AI-Integrated Backend Engineer & Full-Stack Developer
-Backend Developer focused on architecture design, building high-performance RESTful APIs, and deploying database-driven systems using Python and modern engineering frameworks.
-
+### Python Backend & Full Stack Developer
+Final-year Computer Engineering student with hands-on experience in ReactJS and modern Python backend development.
+I started my journey with frontend development during my virtual full stack training and gradually specialized in building REST APIs, authentication systems, and backend applications using Django, DRF, and FastAPI.
 ---
 
 ## 🚀 Technical Skills
@@ -29,17 +29,37 @@ Backend Developer focused on architecture design, building high-performance REST
 
 ---
 
+
+# Hi, I'm Sarthak Panchal 👋
+
+### Python Backend & Full Stack Developer
+
+Final-year Computer Engineering student with hands-on experience in **ReactJS** and modern **Python backend development**.
+
+I started my journey with frontend development during my virtual full stack training and gradually specialized in building **REST APIs, authentication systems, and backend applications** using **Django, DRF, and FastAPI**.
+
+
 ## 📌 Featured Projects
 
-### ✈️ [AI-Enhanced Woox Travel Engine](https://github.com/s-panchal77/AI-Enhanced-Woox-Travel)
-A secure, decoupled REST architecture travel management platform optimized for high-performance query processing.
-- **Key Features:** Custom JWT Authentication token cycles, activity tracking logs, and PostgreSQL semantic-aware search workflows.
-- **Tech Stack:** Python, Django, DRF, JWT, PostgreSQL, JavaScript, Bootstrap
+### Woox Travel Booking Platform
 
-### 🔐 [AI Biometric Vault | Face Auth & Secure File Engine](https://github.com/s-panchal77/AI-Biometric-Vault)
-A security-first async backend service combining computer vision processing pipelines with high-throughput file automation.
-- **Key Features:** Biometric face signature matching via OpenCV, async multi-file handling, and dynamic ZIP archive isolation.
-- **Tech Stack:** Python, FastAPI, Django, OpenCV, face_recognition, SQLite3
+Backend-driven travel booking platform with REST APIs and authentication.
+
+**Tech:** Django, DRF, PostgreSQL, JavaScript
+
+### Biometric Authentication & Secure File Processing System
+
+FastAPI-based file processing and biometric authentication system.
+
+**Tech:** FastAPI, OpenCV, Python, SQLite3
+
+## 📚 Currently Learning
+
+* Advanced FastAPI
+* Docker
+* Backend Architecture
+* AI Integration
+* Production Deployment
 
 ---
 
