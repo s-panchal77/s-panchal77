@@ -83,17 +83,6 @@ FastAPI-based file processing and biometric authentication system.
 
 ---
 
-## 📚 Currently Learning
-
-* Advanced FastAPI
-* Docker
-* Backend Architecture
-* Django REST Framework
-* AI Integration
-* Production Deployment
-
----
-
 ## 🎯 Career Focus
 
 * Python Backend Development
