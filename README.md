@@ -75,11 +75,11 @@ Backend-driven travel booking platform with REST APIs and authentication.
 
 ---
 
-### 🔐 Biometric Authentication & Secure File Processing System
+### 🔒 AI Biometric Vault
 
-FastAPI-based file processing and biometric authentication system.
+A containerized backend authentication service utilizing OpenCV and Django for lightweight, multi-metric face recognition.
 
-**Tech Stack:** FastAPI, OpenCV, Python, SQLite3
+**Tech Stack:** Django, OpenCV, Docker, Docker Compose, NumPy, SQLite3
 
 ---
 
